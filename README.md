@@ -1,3 +1,7 @@
+# A Titanic Problem
+
+A Titanic Problem Jupyter NoteBook in GoogleColab that implement a series of solutions in order to make comparation between them in the clasic Machine Learning problem "Titanic"
+
 ## Installation
 
 Work in Progress
